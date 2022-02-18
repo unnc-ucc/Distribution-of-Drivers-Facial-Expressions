@@ -2,7 +2,7 @@
 
 ​                                                                                                                      ——Accepted by AutomotiveUI '2021 WIP
 
-
+[Paper Link](https://dl.acm.org/doi/abs/10.1145/3473682.3480283)
 
 #### Motivation
 
