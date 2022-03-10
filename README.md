@@ -52,8 +52,3 @@ Each category feature points are unified through linear regression and the final
 
 
 
-#### Contributor
-
-------
-
-Jiahao Wang, Zeyu Xiong, Yicun Duan, Junyu Liu, Zilin Song, Xiangjun Peng
